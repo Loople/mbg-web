@@ -1,7 +1,7 @@
-# 🌐 MBG 2026 - Web Application
+# MBG 2026 - Web Application
 
 <p align="center">
-  <img src="https://your-screenshot-link.com/home.png" width="100%" alt="MBG 2026 Preview">
+  <img src="https://kommodo.ai/i/H2VAwKAQ689tHR3CHGuV" width="100%" alt="MBG 2026 Preview">
 </p>
 
 <p align="center">
@@ -15,64 +15,41 @@
 
 ---
 
-## 📌 Tentang Project
+## Tentang Project
 
 **MBG 2026** adalah sebuah website berbasis Laravel yang dibuat untuk sistem manajemen data, informasi, dan dashboard modern.  
 Project ini dikembangkan menggunakan teknologi modern agar responsif, cepat, dan mudah digunakan.
 
 ---
 
-## ✨ Fitur Utama
+## Preview Tampilan
 
-- 🔐 Login & Register (Multi Role)
-- 📊 Dashboard Admin
-- 📁 CRUD Data
-- 📈 Statistik dengan Chart.js
-- 📄 Export PDF & Excel
-- 📰 Halaman Informasi
-- 🎨 UI Modern & Responsive (Bootstrap 5)
-- ⚡ Laravel Framework
-
----
-
-## 🖼️ Preview Tampilan
-
-### 🏠 Halaman Home
+### Halaman Home
 <p align="center">
-  <img src="https://your-screenshot-link.com/home.png" width="80%">
+  <img src="https://kommodo.ai/i/noTkhrTpdWANHjQBhnaS" width="80%">
 </p>
 
-### 📊 Dashboard
+### About
 <p align="center">
-  <img src="https://your-screenshot-link.com/dashboard.png" width="80%">
+  <img src="https://kommodo.ai/i/vUAEK2xVxSctBJ70FRAL" width="80%">
 </p>
 
-### 📄 Data Management
+### Information
 <p align="center">
-  <img src="https://your-screenshot-link.com/crud.png" width="80%">
+  <img src="https://kommodo.ai/i/s5x6TqSJmliFd1PqMT3v" width="80%">
 </p>
 
 ---
 
-## 🌐 Demo Website
-
-👉 Klik untuk membuka aplikasi:  
-**https://your-live-site.com**
-
----
-
-## 🛠️ Teknologi yang Digunakan
+## Peralatan yang Digunakan
 
 - Laravel 12
 - PHP 8+
 - MySQL
-- Bootstrap 5
-- Chart.js
-- Filament (optional)
 
 ---
 
-## 📂 Instalasi
+## Instalasi
 
 ```bash
 git clone https://github.com/Loople/mbg-web.git
